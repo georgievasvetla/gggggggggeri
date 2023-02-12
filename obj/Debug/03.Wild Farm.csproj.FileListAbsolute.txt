@@ -1,0 +1,14 @@
+C:\Local Disc D\Repos\SoftUni\04 - C# OOP Basics\04.Polymorphism\03.Wild Farm\bin\Debug\03.Wild Farm.exe.config
+C:\Local Disc D\Repos\SoftUni\04 - C# OOP Basics\04.Polymorphism\03.Wild Farm\bin\Debug\03.Wild Farm.exe
+C:\Local Disc D\Repos\SoftUni\04 - C# OOP Basics\04.Polymorphism\03.Wild Farm\bin\Debug\03.Wild Farm.pdb
+C:\Local Disc D\Repos\SoftUni\04 - C# OOP Basics\04.Polymorphism\03.Wild Farm\obj\Debug\03.Wild Farm.csprojResolveAssemblyReference.cache
+C:\Local Disc D\Repos\SoftUni\04 - C# OOP Basics\04.Polymorphism\03.Wild Farm\obj\Debug\03.Wild Farm.exe
+C:\Local Disc D\Repos\SoftUni\04 - C# OOP Basics\04.Polymorphism\03.Wild Farm\obj\Debug\03.Wild Farm.pdb
+C:\Users\Svg\Desktop\03.Wild Farm\bin\Debug\03.Wild Farm.exe.config
+C:\Users\Svg\Desktop\03.Wild Farm\bin\Debug\03.Wild Farm.exe
+C:\Users\Svg\Desktop\03.Wild Farm\bin\Debug\03.Wild Farm.pdb
+C:\Users\Svg\Desktop\03.Wild Farm\obj\Debug\03.Wild Farm.csproj.AssemblyReference.cache
+C:\Users\Svg\Desktop\03.Wild Farm\obj\Debug\03.Wild Farm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svg\Desktop\03.Wild Farm\obj\Debug\03.Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\Svg\Desktop\03.Wild Farm\obj\Debug\03.Wild Farm.exe
+C:\Users\Svg\Desktop\03.Wild Farm\obj\Debug\03.Wild Farm.pdb
